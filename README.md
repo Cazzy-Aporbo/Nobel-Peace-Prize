@@ -367,7 +367,7 @@ For questions about methodology, collaboration opportunities, or consultation on
 
 **Tools:** Python scientific computing ecosystem (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy)
 
-**Inspiration:** This analysis applies rigorous data science to illuminate systematic biases in scientific recognition, with the goal of catalyzing evidence-based interventions toward equity.
+**Inspiration:** This analysis applies data science to illuminate systematic biases in scientific recognition, with the goal of catalyzing evidence-based interventions toward equity.
 
 ---
 
@@ -377,4 +377,4 @@ For questions about methodology, collaboration opportunities, or consultation on
 
 ---
 
-*This analysis demonstrates comprehensive expertise in temporal analysis, bias detection, geospatial methods, collaboration networks, natural language processing, machine learning, dimensionality reduction, and statistical inference applied to complex real-world datasets.*
+*This analysis demonstrates temporal analysis, bias detection, geospatial methods, collaboration networks, natural language processing, machine learning, dimensionality reduction, and statistical inference applied to complex real-world datasets.*
