@@ -1,5 +1,5 @@
 # Nobel Prize Winners Dataset Analysis (1901-2025)
-https://www.kaggle.com/datasets/ahmeduzaki/nobel-prize-winners-dataset-1901-2025
+
 
 ![Python](https://img.shields.io/badge/Python-3.11-5752C4?style=for-the-badge&logo=python&logoColor=B2E4D9)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-476975?style=for-the-badge&logo=pandas&logoColor=B2E4D9)
@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/ahmeduzaki/nobel-prize-winners-dataset-1901-2025
 
 ## Overview
 
-This repository contains a comprehensive analysis of 125 years of Nobel Prize data (1901-2025), employing advanced data science techniques across eight analytical dimensions. The analysis reveals critical insights into gender disparities, geographic concentration, collaboration patterns, and temporal evolution in global scientific achievement.
+This repository contains an analysis of 125 years of Nobel Prize data (1901-2025), employing advanced data science techniques across eight analytical dimensions. The analysis reveals critical insights into gender disparities, geographic concentration, collaboration patterns, and temporal evolution in global scientific achievement. The dataset was found on Kaggle https://www.kaggle.com/datasets/ahmeduzaki/nobel-prize-winners-dataset-1901-2025
 
 **Interactive Report:**
 
