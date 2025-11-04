@@ -14,7 +14,14 @@ https://www.kaggle.com/datasets/ahmeduzaki/nobel-prize-winners-dataset-1901-2025
 
 This repository contains a comprehensive analysis of 125 years of Nobel Prize data (1901-2025), employing advanced data science techniques across eight analytical dimensions. The analysis reveals critical insights into gender disparities, geographic concentration, collaboration patterns, and temporal evolution in global scientific achievement.
 
-**Interactive Report:** [View Full HTML Analysis](https://cazzy-aporbo.github.io/Nobel-Peace-Prize/nobel_prize_analysis.html)
+**Interactive Report:**
+
+<div align="center">
+
+### [Nobel Prize Winners: 125 Years of Data-Driven Insights](https://htmlpreview.github.io/?https://github.com/Cazzy-Aporbo/Nobel-Peace-Prize/blob/main/nobel_prize_analysis.html)
+<sub>Comprehensive Multi-Dimensional Analysis Revealing Systematic Patterns in Global Scientific Achievement</sub>
+
+</div>
 
 ---
 
