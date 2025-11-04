@@ -286,7 +286,7 @@ All visualizations use a cohesive dark theme optimized for clarity and professio
 ## Author
 
 **Cazandra Aporbo, MS**  
-Head of Data Science, FoXX Health
+Data Scientist
 
 **Education:**
 - MS in Data Science, University of Denver
